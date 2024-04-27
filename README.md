@@ -1,4 +1,9 @@
 Terraform infra for CSYE 6225 GCP WEBAPP
+## Architecture Diagram
+
+<!-- ![GCP Architecture Diagram](./architecture/gcp_architecture.png) -->
+![GCP Architecture Diagram](./architecture/gcp_architecture.svg)
+
 ## Terraform commands
 
   Initializes the working directory containing Terraform configuration files:
@@ -44,8 +49,3 @@ $ terraform apply
 ```console
 $ terraform destroy
 ```
-
-## Architecture Diagram
-
-<!-- ![GCP Architecture Diagram](./architecture/gcp_architecture.png) -->
-![GCP Architecture Diagram](./architecture/gcp_architecture.svg)
