@@ -47,5 +47,5 @@ $ terraform destroy
 
 ## Architecture Diagram
 
-![GCP Architecture Diagram](./architecture/gcp_architecture.png)
+<!-- ![GCP Architecture Diagram](./architecture/gcp_architecture.png) -->
 ![GCP Architecture Diagram](./architecture/gcp_architecture.svg)
